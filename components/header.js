@@ -10,7 +10,7 @@ function Header() {
             <a>BIO</a>
           </Link>
         </div>
-        <div className='bg-blue-500 text-sm px-5 py-1 text-white rounded-md cursor-pointer'>Download NextJS</div>
+          <div className='button_download'>Download NextJS</div>
         
       </div>
     </div>
