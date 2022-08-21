@@ -1,5 +1,6 @@
 import Header from '../components/header.js'
 import Head from 'next/head'
+import Container from '../components/container.js'
 
 function Index() {
 
@@ -10,7 +11,9 @@ function Index() {
         <meta property="og:title" content="My page title" key="title" />
       </Head>
       <Header/>
-
+      <Container>
+        Ini adalah index.js
+      </Container>
     </div>
   )
 }

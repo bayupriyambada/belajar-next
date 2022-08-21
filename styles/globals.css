@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
 @layer base{
   .button_download{
     @apply border border-white text-sm px-5 py-2 text-white rounded-md cursor-pointer
