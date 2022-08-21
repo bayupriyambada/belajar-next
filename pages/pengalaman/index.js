@@ -1,7 +1,7 @@
 import Head from 'next/head'
-import Container from '../components/container.js'
+import Container from '../../components/container.js'
 
-function About() {
+function Pengalaman() {
 
   return (
     <div>
@@ -10,10 +10,10 @@ function About() {
         <meta property="og:title" content="My page title" key="title" />
       </Head>
       <Container>
-        Ini adalah About.js
+        Ini adalah Pengalaman.js
       </Container>
     </div>
   )
 }
 
-export default About
+export default Pengalaman

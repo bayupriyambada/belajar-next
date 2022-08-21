@@ -1,6 +1,5 @@
-import Header from '../components/header.js'
 import Head from 'next/head'
-import Container from '../components/container.js'
+import Container from '../components/container'
 
 function Index() {
 
@@ -10,10 +9,10 @@ function Index() {
         <title>BIO-LINK</title>
         <meta property="og:title" content="My page title" key="title" />
       </Head>
-      <Header/>
-      <Container>
+     <Container>
         Ini adalah index.js
       </Container>
+      
     </div>
   )
 }
