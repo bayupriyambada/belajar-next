@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import ActiveLink from './router/routes'
 function Footer() {
 
