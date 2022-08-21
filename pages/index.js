@@ -1,15 +1,10 @@
-import Head from 'next/head'
 import Container from '../components/container'
 
 function Index() {
 
   return (
     <div>
-       <Head>
-        <title>BIO-LINK</title>
-        <meta property="og:title" content="My page title" key="title" />
-      </Head>
-     <Container>
+     <Container title="Link Bio">
         Ini adalah index.js
       </Container>
       
