@@ -2,9 +2,9 @@ function TagSkill() {
    return (
       <>
          <div className="grid grid-cols-3 gap-3">
-            <div>tag1</div>
-            <div>tag1</div>
-            <div>tag1</div>
+            <div>tagnya berubah</div>
+            <div>tagnya ngaco</div>
+            <div>tagnya blunder</div>
          </div>
       </>
    );
